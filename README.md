@@ -1,2 +1,2 @@
-# ren-z-key
+# RenZkeys
 Maximize Your Keyboard Efficiency with RenZkeys
