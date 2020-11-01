@@ -1,5 +1,5 @@
 # RenZkeys
-Maximize Your Keyboard Productivity with RenZkeys!
+*Maximize Your Keyboard Productivity with RenZkeys!*
 
 RenZkeys is a custom key-binding script for [AutoHotkey](https://www.autohotkey.com/). It allows you to maximize your keyboard productivity by minimizing the number of times your hands leave the home row of your keyboard for text navigation, text selection, and text deletion. It works with virtually all IDEs, text editors, and productivity tools like Word and Excel. It allows you to navigate, select, and delete text at the character, block, page, and document level. 
 
@@ -54,7 +54,7 @@ Or you can delete an entire line (in applications like Visual Studio) by pressin
 
 1. Download AutoHotkey from their [website](https://www.autohotkey.com/).
 
-2. Download the custom RenZkey.ahk script from my [Github repository](https://github.com/matthewrenze/ren-z-keys).
+2. Download the custom [RenZkeys.ahk](https://github.com/matthewrenze/ren-z-keys/blob/main/RenZkeys.ahk) script from my [Github repository](https://github.com/matthewrenze/ren-z-keys).
 
 3. Double-click on the file and it will [activate](https://www.autohotkey.com/docs/Program.htm#run) the keybindings.
 
