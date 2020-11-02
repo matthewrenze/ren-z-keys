@@ -72,7 +72,7 @@ In the spirit of continuous self-improvement, I'm always looking for feedback on
 RenZkeys is based on a similar key-binding script called "Vonmacs" created by my long-time friend and fellow software developer [Jon von Gillern](https://www.linkedin.com/in/jon-von-gillern-423b2917/). I've made some minor modifications to his original script over the years. However, credit for the original idea goes entirely to him. Thank you to Jon for this great idea that has helped me maximize my keyboard productivity and minimize the cost of years of unnecessary mouse and keyboard movements!
 
 ### More Info
-For more info, please see [Maximizing Your Keyboard Productivity with RenZkeys](http://matthewrenze.com/articles/maximize-your-keyboard-productivity-with-renzkeys/) on my website.
+For more info, please see [Maximizing Your Keyboard Productivity with RenZkeys](http://matthewrenze.com/articles/maximize-your-keyboard-productivity-with-ren-z-keys/) on my website.
 
 
 
