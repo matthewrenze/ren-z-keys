@@ -60,18 +60,30 @@ Or you can delete an entire line (in applications like Visual Studio) by pressin
 
 4. If you want to [automatically activate](https://www.autohotkey.com/docs/FAQ.htm#Startup) these keybindings every time you start your computer, then simply copy/paste the file (or a shortcut to the file) into your Windows startup folder.
 
+### Tips for Use
+
+If you're having trouble re-training your hands to stop using the arrow keys, I suggest covering your arrow keys and navigation keys (e.g. Home, End, PgUp PgDn) with a small piece of cardstock paper. Just cut it to size and tape it right on top of your keyboard to block your fingers from being able to press the keys. 
+
+In addition, I recommend moving your mouse from your dominant hand to your non-dominant hand while you're learning the new keyboarding habits. For example, if you're right-handed then move your mouse to the left side of the keyboard. If you're left-handed, the move it to the right side.
+
+These small barriers are just enough of a burden for your brain that it will force you to choose to use the new keybindings every time. From my own personal experience, it will significantly speed up the transition process to establishing the new keyboarding habits.
+
 ### Compatability
+
 AutoHotkey works with Windows 7, 8, and 10. However, there is also a cross-platform port called [IronAHK](https://autohotkey.com/board/topic/50354-ironahk-alpha-cross-platform-net-rewrite-of-autohotkey).
 
 In general, these custom key bindings do not conflict with existing shortcut keys for any of the IDEs, text editors, or productivity tools that I use on a regular basis. However, if you use [Zoom](https://zoom.us/), you will want to [disable global keyboard shortcuts](https://github.com/matthewrenze/ren-z-keys/blob/main/images/zoom-disable-global-shortcuts.jpg?raw=true) to prevent conflicts.
 
 ### Suggestions?
+
 In the spirit of continuous self-improvement, I'm always looking for feedback on how to improve my developer productivity. If you have any suggestions or feedback that you think would make these key bindings better or more efficient. Please feel free to reach out to me via [my website](https://matthewrenze.com/contact/).
 
 ### Special Thanks
+
 RenZkeys is based on a similar key-binding script called "Vonmacs" created by my long-time friend and fellow software developer [Jon von Gillern](https://www.linkedin.com/in/jon-von-gillern-423b2917/). I've made some minor modifications to his original script over the years. However, credit for the original idea goes entirely to him. Thank you to Jon for this great idea that has helped me maximize my keyboard productivity and minimize the cost of years of unnecessary mouse and keyboard movements!
 
 ### More Info
+
 For more info, please see [Maximizing Your Keyboard Productivity with RenZkeys](http://matthewrenze.com/articles/maximize-your-keyboard-productivity-with-ren-z-keys/) on my website.
 
 
